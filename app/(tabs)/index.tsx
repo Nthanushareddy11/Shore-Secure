@@ -1130,11 +1130,17 @@ const styles = StyleSheet.create({
     floatingButtonsContainer: {
         position: 'absolute',
         bottom: 110,
-        right: -5,
+        right: 0,
         zIndex: 1000,
         flexDirection: 'column',
         alignItems: 'flex-end',
         gap: 16,
+        transform: [{ perspective: 1000 }, { rotateX: '10deg' }, { rotateY: '-10deg' }],
+        shadowColor: '#000',
+        shadowOffset: { width: 0, height: 4 },
+        shadowOpacity: 0.3,
+        shadowRadius: 6,
+        elevation: 10,
     },
     modalOverlay: {
         flex: 1,
