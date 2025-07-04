@@ -2,6 +2,12 @@
 
 ShoreSecure is a comprehensive beach safety mobile application designed to enhance the beach tourism experience across India. The app provides real-time marine conditions, safety recommendations, emergency services, and community features to help users stay safe and informed during their beach visits.
 
+## Track
+This project is submitted under the **Full Stack + AI/ML** track.
+
+## Problem Statement
+Many beachgoers in India lack access to real-time safety information and emergency services. ShoreSecure addresses this by providing a centralized app for beach safety alerts, community support, and lost-and-found management.
+
 ## Features
 
 ### 🌊 Beach Information
@@ -55,6 +61,26 @@ ShoreSecure is a comprehensive beach safety mobile application designed to enhan
 - **Storage**: AsyncStorage
 - **Maps**: Leaflet.js (via WebView)
 - **UI Components**: Custom components with React Native StyleSheet
+
+## Business Model – ShoreSecure
+Freemium Model
+Core beach safety, SOS, and lost & found tools are free.
+
+ShoreSecure Plus (₹99/month)
+Unlocks advanced alerts, offline access, and priority SOS support.
+
+B2B Partnerships
+Offer custom dashboards to resorts, lifeguards, and tourism boards.
+
+Smart Ads & Sponsorships
+Eco-friendly, location-based promotions — no user tracking.
+
+Data Licensing
+Anonymized safety trends for governments, insurers, and NGOs.
+
+## Bounties/Challenges Completed
+- [Choose Your Color Theme] ✅
+- [Include a star Wars Easter Egg ] ✅
 
 ## Installation
 
